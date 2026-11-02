@@ -1,2 +1,3 @@
-# COS201-Programming-I
-COS 201 Week 1 practical exercises and programming assignments.
+# COS201 - Programming I
+Name: Chukkwuezi Peter
+Matric No:25/16517
