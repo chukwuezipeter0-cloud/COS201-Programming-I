@@ -30,3 +30,16 @@ To configure the Java development environment, write a simple Java program, comp
 
 ## Learning Outcome
 I practised creating, compiling and running a Java program and submitting source code through GitHub.
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Practical Exercise
+Created and executed my first Java programme.
+
+### File
+- `week01/FirstProgram.java`
+
+### Skills Practised
+- Java class and main method
+- Output statements
+- Compilation and execution
+- GitHub version control
